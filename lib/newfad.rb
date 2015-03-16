@@ -22,7 +22,7 @@ module Newfad
       "Rational",
       "Feature",
       "Reversible",
-      "No Retreat, No Surrender",
+      "No-Retreat-No-Surrender",
       "Pair",
       "Small",
       "Big",
@@ -31,27 +31,36 @@ module Newfad
       "Decentralized",
       "Domain",
       "LSD",
-      "Yoga"
+      "Yoga",
+      "Buzzord",
+      "Intellectual",
+      "Unified",
+      "Convention",
+      "Configuration",
+      "Gender-equality",
+      "Sentient"
     ]
 
     SECONDS = [
       "Driven",
-      "Machine",
-      "Test",
       "Programming",
-      "Unified",
       "Release",
-      "Sentient"
+      "Focused",
+      "Learning",
+      "Over"
     ]
 
     THIRDS = [
       "Development",
+      "Machine",
       "Design",
       "Methodology",
-      "Testing",
-      "Learning",
+      "Test",
       "DEVOPS",
       "Prototyping",
+      "Stories",
+      "UX",
+      "Estimation"
     ]
 
     def self.generate
