@@ -60,7 +60,8 @@ module Newfad
       "Prototyping",
       "Stories",
       "UX",
-      "Estimation"
+      "Estimation",
+      "9000"
     ]
 
     def self.generate
