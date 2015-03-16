@@ -1,30 +1,22 @@
 # Newfad
 
-TODO: Write a gem description
+Newfad can tri-words
 
 ## Installation
 
-Add this line to your application's Gemfile:
 
 ```ruby
-gem 'newfad'
+$ gem install newfad
 ```
 
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install newfad
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ newfad
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/newfad/fork )
+1. Fork it ( https://github.com/keikun17/newfad/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
