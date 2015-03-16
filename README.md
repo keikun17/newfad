@@ -1,9 +1,12 @@
 # Newfad
 
-Newfad can tri-words
+Generate 3-word fads like :
+
+  - Extreme Sentient Learning
+  - Behavioral Test Methodology
+  - Yoga driven development
 
 ## Installation
-
 
 ```ruby
 $ gem install newfad
