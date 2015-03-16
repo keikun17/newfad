@@ -38,7 +38,8 @@ module Newfad
       "Convention",
       "Configuration",
       "Gender-equality",
-      "Sentient"
+      "Sentient",
+      "Cloud"
     ]
 
     SECONDS = [
